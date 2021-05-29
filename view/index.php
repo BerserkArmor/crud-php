@@ -7,6 +7,8 @@
     <title>CRUD PHP</title>
 </head>
 <body>
-   <h1>PRUEBA INDEX</h1>
+   <?php 
+    phpinfo();
+   ?>
 </body>
 </html>
